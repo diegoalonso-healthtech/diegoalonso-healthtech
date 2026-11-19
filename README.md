@@ -19,7 +19,7 @@ I spent 15 years in clinical practice before moving into digital health. In 2019
 
 ## Tech
 
-**[[TECH STACK: languages and tools you actually use]]**
+**Languages:** Python · **Tools:** Git, GitHub, cloud · **AI:** Claude Code, AI agents · **Health standards:** HL7 FHIR, openEHR, OMOP, SNOMED CT, ICD-10
 
 ## Open to
 
