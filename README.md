@@ -30,5 +30,5 @@ Remote work and collaborations with digital health startups that need someone wh
 
 ## Contact
 
-- LinkedIn: **[[YOUR LINKEDIN URL]]**
+- LinkedIn: **https://www.linkedin.com/in/diegoalonsoespana/**
 - Based in Las Palmas de Gran Canaria, Spain
