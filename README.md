@@ -11,6 +11,7 @@ I spent 15 years in clinical practice before moving into digital health. In 2019
 - **EHR implementation and clinical UX:** making health software work for the people who use it during a night shift.
 - **Interoperability:** HL7 FHIR, openEHR and SNOMED CT.
 - **AI applied to healthcare:** digital triage and patient-facing tools.
+- **Digital health projects for the common good:** open-source tools that any person or organization can use.
 
 ## Background
 
