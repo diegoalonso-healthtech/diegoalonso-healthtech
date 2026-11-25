@@ -1,3 +1,5 @@
+<img src="assets/profile-card.svg" alt="Diego Alonso: registered nurse building digital health. EHR implementation, clinical UX and interoperability. Based in Las Palmas de Gran Canaria, Spain." width="840">
+
 # Diego Alonso
 
 **Registered nurse building digital health.**
